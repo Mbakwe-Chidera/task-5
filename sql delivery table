@@ -1,0 +1,5 @@
+create table delivery(
+productId int,
+userId int,
+amountPaid varchar,
+deliveryDate varchar)
