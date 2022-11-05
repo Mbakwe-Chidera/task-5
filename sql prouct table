@@ -1,6 +1,0 @@
-create table product_table(
-productId int,
-productName varchar,
-productColor varchar,
-productSize varchar,
-productPrice varchar)
